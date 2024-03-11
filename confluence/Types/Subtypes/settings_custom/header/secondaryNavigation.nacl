@@ -1,0 +1,8 @@
+type confluence.settings_custom__header__secondaryNavigation {
+  string color {
+  }
+  string highlightColor {
+  }
+  confluence.settings_custom__header__secondaryNavigation__hoverOrFocus hoverOrFocus {
+  }
+}

@@ -1,0 +1,13 @@
+confluence.space_permission Shoshana_Houri__unnamed_4@suuu {
+  id = "65557"
+  principal = {
+    type = "group"
+  }
+  operation = {
+    key = "create"
+    targetType = "page"
+  }
+  _parent = [
+    confluence.space.instance.Shoshana_Houri@s,
+  ]
+}

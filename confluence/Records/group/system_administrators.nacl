@@ -1,0 +1,4 @@
+confluence.group system_administrators@b {
+  type = "group"
+  name = "system-administrators"
+}

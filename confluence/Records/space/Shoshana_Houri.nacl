@@ -1,0 +1,35 @@
+confluence.space Shoshana_Houri@s {
+  authorId = "641701a6f1b529dfa98cfe4e"
+  homepageId = "65633"
+  name = "Shoshana Houri"
+  key = "~641701a6f1b529dfa98cfe4e"
+  type = "personal"
+  status = "current"
+  permissions = [
+    confluence.space_permission.instance.Shoshana_Houri__unnamed_0@suuu,
+    confluence.space_permission.instance.Shoshana_Houri__unnamed_1@suuu,
+    confluence.space_permission.instance.Shoshana_Houri__unnamed_2@suuu,
+    confluence.space_permission.instance.Shoshana_Houri__unnamed_3@suuu,
+    confluence.space_permission.instance.Shoshana_Houri__unnamed_4@suuu,
+    confluence.space_permission.instance.Shoshana_Houri__unnamed_5@suuu,
+    confluence.space_permission.instance.Shoshana_Houri__unnamed_6@suuu,
+    confluence.space_permission.instance.Shoshana_Houri__unnamed_7@suuu,
+    confluence.space_permission.instance.Shoshana_Houri__unnamed_8@suuu,
+    confluence.space_permission.instance.Shoshana_Houri__unnamed_9@suuu,
+    confluence.space_permission.instance.Shoshana_Houri__unnamed_10@suuu,
+    confluence.space_permission.instance.Shoshana_Houri__unnamed_11@suuu,
+    confluence.space_permission.instance.Shoshana_Houri__unnamed_12@suuu,
+    confluence.space_permission.instance.Shoshana_Houri__unnamed_13@suuu,
+    confluence.space_permission.instance.Shoshana_Houri__unnamed_14@suuu,
+    confluence.space_permission.instance.Shoshana_Houri__unnamed_15@suuu,
+    confluence.space_permission.instance.Shoshana_Houri__unnamed_16@suuu,
+    confluence.space_permission.instance.Shoshana_Houri__unnamed_17@suuu,
+    confluence.space_permission.instance.Shoshana_Houri__unnamed_18@suuu,
+    confluence.space_permission.instance.Shoshana_Houri__unnamed_19@suuu,
+    confluence.space_permission.instance.Shoshana_Houri__unnamed_20@suuu,
+    confluence.space_permission.instance.Shoshana_Houri__unnamed_21@suuu,
+    confluence.space_permission.instance.Shoshana_Houri__unnamed_22@suuu,
+    confluence.space_permission.instance.Shoshana_Houri__unnamed_23@suuu,
+    confluence.space_permission.instance.Shoshana_Houri__unnamed_24@suuu,
+  ]
+}

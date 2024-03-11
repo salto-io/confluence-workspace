@@ -1,0 +1,26 @@
+type confluence.space {
+  string createdAt {
+    _hidden_value = true
+  }
+  string authorId {
+  }
+  string homepageId {
+  }
+  unknown icon {
+  }
+  string name {
+  }
+  string key {
+  }
+  serviceid id {
+    _hidden_value = true
+  }
+  string type {
+  }
+  unknown description {
+  }
+  string status {
+  }
+  "List<confluence.space_permission>" permissions {
+  }
+}

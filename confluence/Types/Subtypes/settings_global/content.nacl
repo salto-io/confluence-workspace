@@ -1,0 +1,10 @@
+type confluence.settings_global__content {
+  confluence.settings_global__content__screen screen {
+  }
+  confluence.settings_global__content__container container {
+  }
+  confluence.settings_global__content__header header {
+  }
+  confluence.settings_global__content__body body {
+  }
+}

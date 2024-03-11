@@ -1,0 +1,13 @@
+confluence.space_permission Shoshana_Houri__unnamed_18@suuu {
+  id = "65575"
+  principal = {
+    type = "group"
+  }
+  operation = {
+    key = "delete"
+    targetType = "page"
+  }
+  _parent = [
+    confluence.space.instance.Shoshana_Houri@s,
+  ]
+}

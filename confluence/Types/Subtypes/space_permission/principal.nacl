@@ -1,0 +1,7 @@
+type confluence.space_permission__principal {
+  string type {
+  }
+  serviceid id {
+    _hidden_value = true
+  }
+}

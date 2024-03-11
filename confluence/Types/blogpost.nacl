@@ -1,0 +1,20 @@
+type confluence.blogpost {
+  string createdAt {
+    _hidden_value = true
+  }
+  string authorId {
+  }
+  serviceid id {
+    _hidden_value = true
+  }
+  confluence.blogpost__version version {
+  }
+  string title {
+  }
+  string status {
+  }
+  confluence.blogpost__body body {
+  }
+  string spaceId {
+  }
+}

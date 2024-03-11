@@ -1,0 +1,4 @@
+type confluence.space___links {
+  string webui {
+  }
+}

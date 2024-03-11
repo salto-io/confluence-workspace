@@ -1,0 +1,13 @@
+confluence.space_permission My_first_space__unnamed_7@ssuuu {
+  id = "65679"
+  principal = {
+    type = "group"
+  }
+  operation = {
+    key = "create"
+    targetType = "page"
+  }
+  _parent = [
+    confluence.space.instance.My_first_space@s,
+  ]
+}

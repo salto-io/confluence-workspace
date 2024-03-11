@@ -1,0 +1,32 @@
+type confluence.page {
+  string parentType {
+  }
+  string createdAt {
+    _hidden_value = true
+  }
+  string authorId {
+  }
+  serviceid id {
+    _hidden_value = true
+  }
+  confluence.page__version version {
+  }
+  number position {
+  }
+  string title {
+  }
+  string status {
+  }
+  confluence.page__body body {
+  }
+  string parentId {
+  }
+  string spaceId {
+  }
+  string ownerId {
+  }
+  unknown lastOwnerId {
+  }
+  "List<confluence.page__restriction>" restriction {
+  }
+}

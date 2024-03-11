@@ -1,0 +1,6 @@
+type confluence.settings_global__header__search {
+  string backgroundColor {
+  }
+  string color {
+  }
+}

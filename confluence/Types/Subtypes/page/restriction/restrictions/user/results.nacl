@@ -1,0 +1,20 @@
+type confluence.page__restriction__restrictions__user__results {
+  string type {
+  }
+  string accountId {
+  }
+  string accountType {
+  }
+  string email {
+  }
+  string publicName {
+  }
+  confluence.page__restriction__restrictions__user__results__profilePicture profilePicture {
+  }
+  string displayName {
+  }
+  boolean isExternalCollaborator {
+  }
+  confluence.page__restriction__restrictions__user__results___expandable _expandable {
+  }
+}

@@ -1,0 +1,13 @@
+confluence.space_permission Uri__unnamed_2 {
+  id = "98322"
+  principal = {
+    type = "user"
+  }
+  operation = {
+    key = "export"
+    targetType = "space"
+  }
+  _parent = [
+    confluence.space.instance.Uri,
+  ]
+}

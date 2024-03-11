@@ -1,0 +1,76 @@
+confluence.page pagey_65633 {
+  parentType = "page"
+  authorId = "641701a6f1b529dfa98cfe4e"
+  version = {
+    number = 1
+    message = ""
+    minorEdit = false
+    authorId = "641701a6f1b529dfa98cfe4e"
+  }
+  position = 1854
+  title = "pagey"
+  status = "current"
+  parentId = confluence.page.instance.Overview
+  spaceId = confluence.space.instance.Shoshana_Houri@s
+  ownerId = "641701a6f1b529dfa98cfe4e"
+  restriction = [
+    {
+      operation = "update"
+      restrictions = {
+        user = {
+          results = [
+            {
+              type = "known"
+              accountId = "641701a6f1b529dfa98cfe4e"
+              accountType = "atlassian"
+              email = "shoshana.houri@salto.io"
+              publicName = "Shoshana Houri"
+              profilePicture = {
+                path = "/wiki/aa-avatar/641701a6f1b529dfa98cfe4e"
+                width = 48
+                height = 48
+                isDefault = false
+              }
+              displayName = "Shoshana Houri"
+              isExternalCollaborator = false
+              _expandable = {
+                operations = ""
+                personalSpace = ""
+              }
+            },
+            {
+              type = "known"
+              accountId = "641701a6f1b529dfa98cfe4e"
+              accountType = "atlassian"
+              email = "shoshana.houri@salto.io"
+              publicName = "Shoshana Houri"
+              profilePicture = {
+                path = "/wiki/aa-avatar/641701a6f1b529dfa98cfe4e"
+                width = 48
+                height = 48
+                isDefault = false
+              }
+              displayName = "Shoshana Houri"
+              isExternalCollaborator = false
+              _expandable = {
+                operations = ""
+                personalSpace = ""
+              }
+            },
+          ]
+          start = 0
+          limit = 100
+          size = 1
+        }
+        group = {
+          start = 0
+          limit = 100
+          size = 0
+        }
+      }
+      _expandable = {
+        content = "/rest/api/content/65816"
+      }
+    },
+  ]
+}

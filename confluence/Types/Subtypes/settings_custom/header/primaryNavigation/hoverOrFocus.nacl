@@ -1,0 +1,6 @@
+type confluence.settings_custom__header__primaryNavigation__hoverOrFocus {
+  string backgroundColor {
+  }
+  string color {
+  }
+}

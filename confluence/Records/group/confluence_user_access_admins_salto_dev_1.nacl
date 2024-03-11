@@ -1,0 +1,4 @@
+confluence.group confluence_user_access_admins_salto_dev_1@b {
+  type = "group"
+  name = "confluence-user-access-admins-salto-dev-1"
+}

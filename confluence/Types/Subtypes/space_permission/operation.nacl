@@ -1,0 +1,6 @@
+type confluence.space_permission__operation {
+  string key {
+  }
+  string targetType {
+  }
+}

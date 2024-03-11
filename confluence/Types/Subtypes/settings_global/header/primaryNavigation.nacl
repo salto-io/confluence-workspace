@@ -1,0 +1,6 @@
+type confluence.settings_global__header__primaryNavigation {
+  string color {
+  }
+  confluence.settings_global__header__primaryNavigation__hoverOrFocus hoverOrFocus {
+  }
+}

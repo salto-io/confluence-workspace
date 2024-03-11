@@ -1,0 +1,4 @@
+type confluence.settings_custom__bordersAndDividers {
+  string color {
+  }
+}

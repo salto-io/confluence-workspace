@@ -1,0 +1,13 @@
+confluence.space_permission Shoshana_Houri__unnamed_12@suuu {
+  id = "65568"
+  principal = {
+    type = "user"
+  }
+  operation = {
+    key = "create"
+    targetType = "attachment"
+  }
+  _parent = [
+    confluence.space.instance.Shoshana_Houri@s,
+  ]
+}

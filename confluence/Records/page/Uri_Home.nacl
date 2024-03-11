@@ -1,0 +1,34 @@
+confluence.page Uri_Home@s {
+  authorId = "641701a6f1b529dfa98cfe4e"
+  version = {
+    number = 1
+    message = ""
+    minorEdit = false
+    authorId = "641701a6f1b529dfa98cfe4e"
+  }
+  position = 258
+  title = "Uri Home"
+  status = "current"
+  spaceId = confluence.space.instance.Uri
+  ownerId = "641701a6f1b529dfa98cfe4e"
+  restriction = [
+    {
+      operation = "update"
+      restrictions = {
+        user = {
+          start = 0
+          limit = 100
+          size = 0
+        }
+        group = {
+          start = 0
+          limit = 100
+          size = 0
+        }
+      }
+      _expandable = {
+        content = "/rest/api/content/98395"
+      }
+    },
+  ]
+}

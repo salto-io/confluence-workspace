@@ -1,0 +1,8 @@
+type confluence.blogpost___links {
+  string editui {
+  }
+  string webui {
+  }
+  string tinyui {
+  }
+}

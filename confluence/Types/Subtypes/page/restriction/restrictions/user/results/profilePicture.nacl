@@ -1,0 +1,10 @@
+type confluence.page__restriction__restrictions__user__results__profilePicture {
+  string path {
+  }
+  number width {
+  }
+  number height {
+  }
+  boolean isDefault {
+  }
+}

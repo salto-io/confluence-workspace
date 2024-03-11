@@ -1,0 +1,4 @@
+type confluence.settings_custom__menus__hoverOrFocus {
+  string backgroundColor {
+  }
+}

@@ -1,0 +1,4 @@
+type confluence.group___links {
+  string self {
+  }
+}

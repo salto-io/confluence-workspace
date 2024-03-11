@@ -1,0 +1,13 @@
+confluence.space_permission Uri__unnamed_11 {
+  id = "98331"
+  principal = {
+    type = "user"
+  }
+  operation = {
+    key = "delete"
+    targetType = "page"
+  }
+  _parent = [
+    confluence.space.instance.Uri,
+  ]
+}

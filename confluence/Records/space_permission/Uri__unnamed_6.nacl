@@ -1,0 +1,13 @@
+confluence.space_permission Uri__unnamed_6 {
+  id = "98326"
+  principal = {
+    type = "group"
+  }
+  operation = {
+    key = "create"
+    targetType = "comment"
+  }
+  _parent = [
+    confluence.space.instance.Uri,
+  ]
+}

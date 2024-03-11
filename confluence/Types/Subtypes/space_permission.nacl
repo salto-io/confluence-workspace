@@ -1,0 +1,8 @@
+type confluence.space_permission {
+  serviceid id {
+  }
+  confluence.space_permission__principal principal {
+  }
+  confluence.space_permission__operation operation {
+  }
+}

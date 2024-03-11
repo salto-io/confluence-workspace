@@ -1,0 +1,6 @@
+type confluence.page__restriction__restrictions {
+  confluence.page__restriction__restrictions__user user {
+  }
+  confluence.page__restriction__restrictions__group group {
+  }
+}

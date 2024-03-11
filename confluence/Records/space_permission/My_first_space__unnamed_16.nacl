@@ -1,0 +1,13 @@
+confluence.space_permission My_first_space__unnamed_16@ssuuu {
+  id = "65689"
+  principal = {
+    type = "group"
+  }
+  operation = {
+    key = "delete"
+    targetType = "comment"
+  }
+  _parent = [
+    confluence.space.instance.My_first_space@s,
+  ]
+}

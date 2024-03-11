@@ -1,0 +1,16 @@
+settings confluence.settings_global {
+  confluence.settings_global__headings headings {
+  }
+  confluence.settings_global__links links {
+  }
+  confluence.settings_global__menus menus {
+  }
+  confluence.settings_global__header header {
+  }
+  confluence.settings_global__horizontalHeader horizontalHeader {
+  }
+  confluence.settings_global__content content {
+  }
+  confluence.settings_global__bordersAndDividers bordersAndDividers {
+  }
+}

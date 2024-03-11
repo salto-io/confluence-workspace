@@ -1,0 +1,6 @@
+type confluence.settings_global__horizontalHeader {
+  string backgroundColor {
+  }
+  confluence.settings_global__horizontalHeader__primaryNavigation primaryNavigation {
+  }
+}

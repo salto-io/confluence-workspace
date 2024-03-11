@@ -1,0 +1,4 @@
+type confluence.page__restriction___expandable {
+  string content {
+  }
+}

@@ -1,0 +1,13 @@
+confluence.space_permission My_first_space__unnamed_14@ssuuu {
+  id = "65687"
+  principal = {
+    type = "group"
+  }
+  operation = {
+    key = "delete"
+    targetType = "page"
+  }
+  _parent = [
+    confluence.space.instance.My_first_space@s,
+  ]
+}

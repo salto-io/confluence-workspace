@@ -1,0 +1,13 @@
+type confluence.page__version {
+  number number {
+  }
+  string message {
+  }
+  boolean minorEdit {
+  }
+  string authorId {
+  }
+  string createdAt {
+    _hidden_value = true
+  }
+}

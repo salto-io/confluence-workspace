@@ -1,0 +1,13 @@
+confluence.space_permission Uri__unnamed_13 {
+  id = "98334"
+  principal = {
+    type = "group"
+  }
+  operation = {
+    key = "read"
+    targetType = "space"
+  }
+  _parent = [
+    confluence.space.instance.Uri,
+  ]
+}

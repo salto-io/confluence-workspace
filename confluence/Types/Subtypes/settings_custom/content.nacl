@@ -1,0 +1,10 @@
+type confluence.settings_custom__content {
+  confluence.settings_custom__content__screen screen {
+  }
+  confluence.settings_custom__content__container container {
+  }
+  confluence.settings_custom__content__header header {
+  }
+  confluence.settings_custom__content__body body {
+  }
+}

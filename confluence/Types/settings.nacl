@@ -1,0 +1,4 @@
+settings confluence.settings {
+  string selected {
+  }
+}

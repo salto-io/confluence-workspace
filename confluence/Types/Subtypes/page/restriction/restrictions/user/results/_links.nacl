@@ -1,0 +1,4 @@
+type confluence.page__restriction__restrictions__user__results___links {
+  string self {
+  }
+}

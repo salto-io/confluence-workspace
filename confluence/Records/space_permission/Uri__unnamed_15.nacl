@@ -1,0 +1,13 @@
+confluence.space_permission Uri__unnamed_15 {
+  id = "98338"
+  principal = {
+    type = "group"
+  }
+  operation = {
+    key = "delete"
+    targetType = "comment"
+  }
+  _parent = [
+    confluence.space.instance.Uri,
+  ]
+}

@@ -1,0 +1,6 @@
+type confluence.page__restriction__restrictions__user__results___expandable {
+  string operations {
+  }
+  string personalSpace {
+  }
+}

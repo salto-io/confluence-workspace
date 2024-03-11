@@ -1,0 +1,12 @@
+type confluence.settings_global__header {
+  string backgroundColor {
+  }
+  confluence.settings_global__header__button button {
+  }
+  confluence.settings_global__header__primaryNavigation primaryNavigation {
+  }
+  confluence.settings_global__header__secondaryNavigation secondaryNavigation {
+  }
+  confluence.settings_global__header__search search {
+  }
+}

@@ -1,0 +1,35 @@
+confluence.space Uri {
+  authorId = "641701a6f1b529dfa98cfe4e"
+  homepageId = "98395"
+  name = "Uri"
+  key = "blabla"
+  type = "global"
+  status = "current"
+  permissions = [
+    confluence.space_permission.instance.Uri__unnamed_0,
+    confluence.space_permission.instance.Uri__unnamed_1,
+    confluence.space_permission.instance.Uri__unnamed_2,
+    confluence.space_permission.instance.Uri__unnamed_3,
+    confluence.space_permission.instance.Uri__unnamed_4,
+    confluence.space_permission.instance.Uri__unnamed_5,
+    confluence.space_permission.instance.Uri__unnamed_6,
+    confluence.space_permission.instance.Uri__unnamed_7,
+    confluence.space_permission.instance.Uri__unnamed_8,
+    confluence.space_permission.instance.Uri__unnamed_9,
+    confluence.space_permission.instance.Uri__unnamed_10,
+    confluence.space_permission.instance.Uri__unnamed_11,
+    confluence.space_permission.instance.Uri__unnamed_12,
+    confluence.space_permission.instance.Uri__unnamed_13,
+    confluence.space_permission.instance.Uri__unnamed_14,
+    confluence.space_permission.instance.Uri__unnamed_15,
+    confluence.space_permission.instance.Uri__unnamed_16,
+    confluence.space_permission.instance.Uri__unnamed_17,
+    confluence.space_permission.instance.Uri__unnamed_18,
+    confluence.space_permission.instance.Uri__unnamed_19,
+    confluence.space_permission.instance.Uri__unnamed_20,
+    confluence.space_permission.instance.Uri__unnamed_21,
+    confluence.space_permission.instance.Uri__unnamed_22,
+    confluence.space_permission.instance.Uri__unnamed_23,
+    confluence.space_permission.instance.Uri__unnamed_24,
+  ]
+}

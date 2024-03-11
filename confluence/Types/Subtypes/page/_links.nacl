@@ -1,0 +1,8 @@
+type confluence.page___links {
+  string editui {
+  }
+  string webui {
+  }
+  string tinyui {
+  }
+}

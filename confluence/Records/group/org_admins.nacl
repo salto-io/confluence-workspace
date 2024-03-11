@@ -1,0 +1,4 @@
+confluence.group org_admins@b {
+  type = "group"
+  name = "org-admins"
+}

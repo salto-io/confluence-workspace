@@ -1,0 +1,13 @@
+confluence.space_permission My_first_space__unnamed_5@ssuuu {
+  id = "65677"
+  principal = {
+    type = "group"
+  }
+  operation = {
+    key = "restrict_content"
+    targetType = "space"
+  }
+  _parent = [
+    confluence.space.instance.My_first_space@s,
+  ]
+}

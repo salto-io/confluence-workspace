@@ -1,0 +1,35 @@
+confluence.space My_first_space@s {
+  authorId = "641701a6f1b529dfa98cfe4e"
+  homepageId = "65751"
+  name = "My first space"
+  key = "TEAM"
+  type = "global"
+  status = "current"
+  permissions = [
+    confluence.space_permission.instance.My_first_space__unnamed_0@ssuuu,
+    confluence.space_permission.instance.My_first_space__unnamed_1@ssuuu,
+    confluence.space_permission.instance.My_first_space__unnamed_2@ssuuu,
+    confluence.space_permission.instance.My_first_space__unnamed_3@ssuuu,
+    confluence.space_permission.instance.My_first_space__unnamed_4@ssuuu,
+    confluence.space_permission.instance.My_first_space__unnamed_5@ssuuu,
+    confluence.space_permission.instance.My_first_space__unnamed_6@ssuuu,
+    confluence.space_permission.instance.My_first_space__unnamed_7@ssuuu,
+    confluence.space_permission.instance.My_first_space__unnamed_8@ssuuu,
+    confluence.space_permission.instance.My_first_space__unnamed_9@ssuuu,
+    confluence.space_permission.instance.My_first_space__unnamed_10@ssuuu,
+    confluence.space_permission.instance.My_first_space__unnamed_11@ssuuu,
+    confluence.space_permission.instance.My_first_space__unnamed_12@ssuuu,
+    confluence.space_permission.instance.My_first_space__unnamed_13@ssuuu,
+    confluence.space_permission.instance.My_first_space__unnamed_14@ssuuu,
+    confluence.space_permission.instance.My_first_space__unnamed_15@ssuuu,
+    confluence.space_permission.instance.My_first_space__unnamed_16@ssuuu,
+    confluence.space_permission.instance.My_first_space__unnamed_17@ssuuu,
+    confluence.space_permission.instance.My_first_space__unnamed_18@ssuuu,
+    confluence.space_permission.instance.My_first_space__unnamed_19@ssuuu,
+    confluence.space_permission.instance.My_first_space__unnamed_20@ssuuu,
+    confluence.space_permission.instance.My_first_space__unnamed_21@ssuuu,
+    confluence.space_permission.instance.My_first_space__unnamed_22@ssuuu,
+    confluence.space_permission.instance.My_first_space__unnamed_23@ssuuu,
+    confluence.space_permission.instance.My_first_space__unnamed_24@ssuuu,
+  ]
+}

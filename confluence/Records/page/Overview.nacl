@@ -1,0 +1,34 @@
+confluence.page Overview {
+  authorId = "641701a6f1b529dfa98cfe4e"
+  version = {
+    number = 1
+    message = ""
+    minorEdit = false
+    authorId = "641701a6f1b529dfa98cfe4e"
+  }
+  position = 333694531
+  title = "Overview"
+  status = "current"
+  spaceId = confluence.space.instance.Shoshana_Houri@s
+  ownerId = "641701a6f1b529dfa98cfe4e"
+  restriction = [
+    {
+      operation = "update"
+      restrictions = {
+        user = {
+          start = 0
+          limit = 100
+          size = 0
+        }
+        group = {
+          start = 0
+          limit = 100
+          size = 0
+        }
+      }
+      _expandable = {
+        content = "/rest/api/content/65633"
+      }
+    },
+  ]
+}

@@ -1,0 +1,6 @@
+type confluence.settings_custom__horizontalHeader__primaryNavigation {
+  string highlightColor {
+  }
+  confluence.settings_custom__horizontalHeader__primaryNavigation__hoverOrFocus hoverOrFocus {
+  }
+}

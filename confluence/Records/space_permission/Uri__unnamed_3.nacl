@@ -1,0 +1,13 @@
+confluence.space_permission Uri__unnamed_3 {
+  id = "98323"
+  principal = {
+    type = "group"
+  }
+  operation = {
+    key = "create"
+    targetType = "blogpost"
+  }
+  _parent = [
+    confluence.space.instance.Uri,
+  ]
+}

@@ -1,0 +1,85 @@
+confluence.settings_global {
+  headings = {
+    color = "var(--ds-text, #172b4d)"
+  }
+  links = {
+    color = "var(--ds-link, #0052cc)"
+  }
+  menus = {
+    hoverOrFocus = {
+      backgroundColor = "var(--ds-background-selected, #3572b0)"
+    }
+    color = "var(--ds-text-subtle, #333333)"
+  }
+  header = {
+    backgroundColor = "var(--ds-background-brand-bold, #0747A6)"
+    button = {
+      backgroundColor = "var(--ds-background-brand-bold, #3572b0)"
+      color = "var(--ds-text-inverse, #ffffff)"
+    }
+    primaryNavigation = {
+      color = "var(--ds-text-inverse, #ffffff)"
+      hoverOrFocus = {
+        backgroundColor = "var(--ds-background-selected, #3572b0)"
+        color = "var(--ds-text-selected, #ffffff)"
+      }
+    }
+    secondaryNavigation = {
+      color = "var(--ds-text-subtle ,#333333)"
+      highlightColor = "var(--ds-background-selected, #0747A6)"
+      hoverOrFocus = {
+        backgroundColor = "var(--ds-background-selected, #3572b0)"
+        color = "var(--ds-text-selected, #ffffff)"
+      }
+    }
+    search = {
+      backgroundColor = "var(--ds-background-neutral, rgba(0, 0, 0, 0.2))"
+      color = "var(--ds-text-inverse, #ffffff)"
+    }
+  }
+  horizontalHeader = {
+    backgroundColor = "var(--ds-surface, #ffffff)"
+    primaryNavigation = {
+      highlightColor = "var(--ds-text-brand, #0052CC)"
+    }
+  }
+  content = {
+    screen = {
+      background = "var(--ds-surface, #FFFFFF)"
+      backgroundColor = "var(--ds-surface, #FFFFFF)"
+      backgroundImage = "none"
+      backgroundSize = "auto"
+      gutterTop = "default"
+      gutterRight = "default"
+      gutterBottom = "default"
+      gutterLeft = "default"
+    }
+    container = {
+      background = "var(--ds-surface, #FFFFFF)"
+      backgroundColor = "var(--ds-surface, #FFFFFF)"
+      backgroundImage = "none"
+      backgroundSize = "auto"
+      padding = "0"
+      borderRadius = "0"
+    }
+    header = {
+      background = "var(--ds-surface, #FFFFFF)"
+      backgroundColor = "var(--ds-surface, #FFFFFF)"
+      backgroundImage = "none"
+      backgroundSize = "auto"
+      padding = "0"
+      borderRadius = "0"
+    }
+    body = {
+      background = "var(--ds-surface, #FFFFFF)"
+      backgroundColor = "var(--ds-surface, #FFFFFF)"
+      backgroundImage = "none"
+      backgroundSize = "auto"
+      padding = "0"
+      borderRadius = "0"
+    }
+  }
+  bordersAndDividers = {
+    color = "var(--ds-border, #cccccc)"
+  }
+}

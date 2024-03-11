@@ -1,0 +1,8 @@
+type confluence.page__restriction {
+  string operation {
+  }
+  confluence.page__restriction__restrictions restrictions {
+  }
+  confluence.page__restriction___expandable _expandable {
+  }
+}

@@ -1,0 +1,13 @@
+confluence.space_permission Uri__unnamed_21 {
+  id = "98345"
+  principal = {
+    type = "group"
+  }
+  operation = {
+    key = "create"
+    targetType = "attachment"
+  }
+  _parent = [
+    confluence.space.instance.Uri,
+  ]
+}

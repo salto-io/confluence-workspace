@@ -1,0 +1,13 @@
+confluence {
+  client = {
+  }
+  fetch = {
+    include = [
+      {
+        type = ".*"
+      },
+    ]
+    exclude = [
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+type confluence.settings_global__content__header {
+  string background {
+  }
+  string backgroundColor {
+  }
+  string backgroundImage {
+  }
+  string backgroundSize {
+  }
+  string padding {
+  }
+  string borderRadius {
+  }
+}

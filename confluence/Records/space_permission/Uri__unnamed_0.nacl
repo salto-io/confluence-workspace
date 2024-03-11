@@ -1,0 +1,13 @@
+confluence.space_permission Uri__unnamed_0 {
+  id = "98320"
+  principal = {
+    type = "group"
+  }
+  operation = {
+    key = "create"
+    targetType = "page"
+  }
+  _parent = [
+    confluence.space.instance.Uri,
+  ]
+}

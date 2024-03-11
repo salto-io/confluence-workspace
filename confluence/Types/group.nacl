@@ -1,0 +1,9 @@
+type confluence.group {
+  string type {
+  }
+  string name {
+  }
+  serviceid id {
+    _hidden_value = true
+  }
+}

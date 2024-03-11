@@ -1,0 +1,4 @@
+type confluence.settings_global__links {
+  string color {
+  }
+}

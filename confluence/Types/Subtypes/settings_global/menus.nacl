@@ -1,0 +1,6 @@
+type confluence.settings_global__menus {
+  confluence.settings_global__menus__hoverOrFocus hoverOrFocus {
+  }
+  string color {
+  }
+}

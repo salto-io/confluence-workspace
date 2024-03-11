@@ -1,0 +1,18 @@
+type confluence.settings_custom__content__screen {
+  string background {
+  }
+  string backgroundColor {
+  }
+  string backgroundImage {
+  }
+  string backgroundSize {
+  }
+  string gutterTop {
+  }
+  string gutterRight {
+  }
+  string gutterBottom {
+  }
+  string gutterLeft {
+  }
+}

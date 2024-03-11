@@ -1,0 +1,13 @@
+confluence.space_permission Uri__unnamed_19 {
+  id = "98342"
+  principal = {
+    type = "group"
+  }
+  operation = {
+    key = "delete"
+    targetType = "attachment"
+  }
+  _parent = [
+    confluence.space.instance.Uri,
+  ]
+}

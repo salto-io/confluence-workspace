@@ -1,0 +1,12 @@
+confluence.blogpost Hey__I_m_am_a_first_blog_post@lstsssss {
+  authorId = "641701a6f1b529dfa98cfe4e"
+  version = {
+    number = 1
+    message = ""
+    minorEdit = false
+    authorId = "641701a6f1b529dfa98cfe4e"
+  }
+  title = "Hey! I'm am a first blog post"
+  status = "current"
+  spaceId = confluence.space.instance.Shoshana_Houri@s
+}

@@ -1,0 +1,16 @@
+settings confluence.settings_custom {
+  confluence.settings_custom__headings headings {
+  }
+  confluence.settings_custom__links links {
+  }
+  confluence.settings_custom__menus menus {
+  }
+  confluence.settings_custom__header header {
+  }
+  confluence.settings_custom__horizontalHeader horizontalHeader {
+  }
+  confluence.settings_custom__content content {
+  }
+  confluence.settings_custom__bordersAndDividers bordersAndDividers {
+  }
+}
